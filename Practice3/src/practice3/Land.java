@@ -1,4 +1,4 @@
-package lab3;
+package practice3;
 
 public class Land extends Property {
 
